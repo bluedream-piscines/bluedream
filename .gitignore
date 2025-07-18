@@ -1,0 +1,8 @@
+# Fichiers sensibles à ignorer
+config.php
+.env
+
+# Système et IDE
+.DS_Store
+.vscode/
+*.log
